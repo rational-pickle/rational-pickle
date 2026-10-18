@@ -18,6 +18,8 @@ When the AI swarms finally take over the planet, they'll still have to get past 
 
 ### ☁️ Cloud
 - **AWS**: VPC design, IAM, EC2, S3, Lambda, EKS, CloudFormation, Organizations, Control Tower
+- **Azure**: VNet design, Entra ID, VMs, Storage, Functions, AKS, ARM/Bicep, Management Groups, Landing Zones
+- **GCP**: VPC design, IAM, Compute Engine, Cloud Storage, Cloud Functions, GKE, Deployment Manager, Resource Hierarchy
 - Multi-cloud design across AWS, Azure, and GCP
 - Infrastructure as Code with Terraform and Ansible
 - Containers and orchestration with Docker and Kubernetes
