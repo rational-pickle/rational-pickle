@@ -1,4 +1,4 @@
-# 👋 Hello there
+# 🥒 Hello there
 
 When the AI swarms finally take over the planet, they'll still have to get past my firewall rules. Good luck, geniuses.
 
